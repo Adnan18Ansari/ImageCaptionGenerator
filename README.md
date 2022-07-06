@@ -1,5 +1,5 @@
 # ImageCaptionGenerator
-Steps involved :-
+## Steps involved :-
 Loading the image-caption mappings.
 Text cleaning - Removal of single-lettered words, removal of punctuations, removal of numbers/digits.
 Text processing - Creation of corpus and vocabulary, addition of '<startseq>' and '<endseq>' tags to each of the captions.
