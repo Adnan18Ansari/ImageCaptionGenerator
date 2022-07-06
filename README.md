@@ -1,7 +1,7 @@
 # ImageCaptionGenerator
 Caption generation is a challenging artificial intelligence problem where a textual description must be generated for a given photograph i.e. generating captions to describe images. It requires both methods from computer vision to understand the content of the image and a language model from the field of natural language processing to turn the understanding of the image into words in the right order. Model is trained on Flickr8k dataset
 ## Steps involved :-
-Loading the image-caption mappings.
+ Loading the image-caption mappings.
 Text cleaning - Removal of single-lettered words, removal of punctuations, removal of numbers/digits.
 Text processing - Creation of corpus and vocabulary, addition of '<startseq>' and '<endseq>' tags to each of the captions.
 Splitting data into train-validation-test sets.
