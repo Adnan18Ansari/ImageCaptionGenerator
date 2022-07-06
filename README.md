@@ -12,3 +12,5 @@ Creation and training of RNN Model.
 Generating caption using two methods - greedy search and beam search. Model evaluated using Bleu Scores.
 Generating captions for images in the test set.
 Developing GUI for interaction using tkinter library.
+
+![Screenshot (650)](https://user-images.githubusercontent.com/55757910/177475198-cdb91af8-5187-46e9-82d1-d94548e3ef7b.png)
